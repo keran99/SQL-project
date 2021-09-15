@@ -8,6 +8,6 @@ git clone https://github.com/keran99/SQL-project.git
 ```
 
 ## Authors
-Keran Jegasothy
-Jason Shuyinta
+Keran Jegasothy <br/>
+Jason Shuyinta  <br/>
 Tulak Mozammel
