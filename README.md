@@ -9,5 +9,5 @@ git clone https://github.com/keran99/SQL-project.git
 
 ## Authors
 Keran Jegasothy <br/>
-Jason Shuyinta  <br/>
+[Jason Shuyinta] (https://github.com/JasonShuyinta)  <br/>
 Tulak Mozammel
